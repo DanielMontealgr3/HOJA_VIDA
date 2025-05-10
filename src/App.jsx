@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Inicio from './components/Inicio'; 
 import SobreMi from './components/SobreMi';
 import Educacion from './components/Educacion';
-import Conocimientos from './components/conocimientos';
+import Conocimientos from './components/Conocimientos';
 import Referencias from './components/Referencias';
 import Portafolio from './components/Portafolio';
 import Footer from './components/Footer';
