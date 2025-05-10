@@ -38,7 +38,7 @@ export const cvData = {
       },
       {
         nombre: "Currículum",
-        url: "https://drive.google.com/drive/folders/1aH7yv-DclFA-C8I0jYsi2kNhx1tcNdWT?usp=sharing",
+        url: "https://drive.google.com/file/d/1N1aPRKi_CBG8uVP-plg5-2SN1gKKmHTO/view?usp=drive_link",
         iconoClase: "bi bi-file-earmark-person",
         altText: "Mi Hoja de Vida"
       }
