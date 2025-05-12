@@ -119,7 +119,7 @@ export const cvData = {
       },
       {
         id: "licencias",
-        nombre: "Comuntienda - virtual shop",
+        nombre: "Comuntienda",
         descripcion: "Practica que nos ayudo a definir licencias de software y saber como funcionan en dado caso de llegar a crear un sitio con licencias.",
         imagenUrl: licenciasImagen,
         urlGithub: "https://github.com/DanielMontealgr3/DANIEL_MONTEALEGRE_LICENCIAS",
