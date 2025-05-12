@@ -103,7 +103,7 @@ export const cvData = {
     titulo: "Conoce mis trabajos realizados en formación",
     proyectos: [
       {
-        id: "proyecto-salud",
+        id: "Proyecto-salud",
         nombre: "Proyecto Salud conectada",
         descripcion: "Proyecto formativo que integra diversas áreas de la salud en un sistema unificado para optimizar la gestión y efectividad de los servicios.",
         imagenUrl: saludLogo,
@@ -119,7 +119,7 @@ export const cvData = {
       },
       {
         id: "licencias",
-        nombre: "Comunienta - virtual shop",
+        nombre: "Comuntienda - virtual shop",
         descripcion: "Practica que nos ayudo a definir licencias de software y saber como funcionan en dado caso de llegar a crear un sitio con licencias.",
         imagenUrl: licenciasImagen,
         urlGithub: "https://github.com/DanielMontealgr3/DANIEL_MONTEALEGRE_LICENCIAS",
